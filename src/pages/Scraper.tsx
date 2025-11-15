@@ -12,7 +12,7 @@ const Scraper = () => {
             ML-powered job market analysis using real-time data
           </p>
         </div>
-        <Search />
+        <JobScraper />
       </main>
     </div>
   );
